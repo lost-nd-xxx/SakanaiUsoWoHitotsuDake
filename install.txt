@@ -1,0 +1,7 @@
+charset,UTF-8
+type,ghost
+
+name,咲かない嘘をひとつだけ
+directory,SakanaiUsoWoHitotsuDake
+
+

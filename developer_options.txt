@@ -1,0 +1,16 @@
+.git/,noupdate,nonar
+.github/,noupdate,nonar
+ghost/master/profile/,noupdate,nonar
+ghost/master/satori_savebackup.txt,noupdate,nonar
+ghost/master/satori_savedata.txt,noupdate,nonar
+ghost/master/ssp_shiori_log.txt,noupdate,nonar
+ghost/master/var/,noupdate,nonar
+shell/master/profile/,noupdate,nonar
+shell/ymmgs/,noupdate,nonar
+.gitattributes,nonar,noupdate
+.gitignore,noupdate,nonar
+developer_options.txt,noupdate,nonar
+md5buildignore.txt,noupdate,nonar
+readme.md,noupdate,nonar
+
+

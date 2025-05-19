@@ -1,0 +1,8 @@
+(	\![set,serikotalk,false](
+)	)\![set,serikotalk,true]
+、	\![set,serikotalk,false]、\w5\![set,serikotalk,true]
+。	\![set,serikotalk,false]。\w9\![set,serikotalk,true]
+…	\![set,serikotalk,false]…\w5\![set,serikotalk,true]
+！	\![set,serikotalk,false]！\w5\![set,serikotalk,true]
+？	\![set,serikotalk,false]？\w5\![set,serikotalk,true]
+\![set,serikotalk,false]！\w5\![set,serikotalk,true]\![set,serikotalk,false]？\w5\![set,serikotalk,true]	\![set,serikotalk,false]！？\w9\![set,serikotalk,true]
