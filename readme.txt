@@ -1,4 +1,4 @@
-「咲かない嘘をひとつだけ」
+ゴースト「咲かない嘘をひとつだけ」
 
 校庭の隅にぽつんとある大きな樹に、
 人間のような顔が見えてしまったら。
@@ -28,3 +28,8 @@ https://earlduant.blog.fc2.com/blog-entry-918.html
 
 ○偽AI「里々」（整備班ver）
 https://github.com/ukatech/satoriya-shiori
+
+
+●作者情報・連絡先
+○作者: ろすえん (lost_nd_xxx)
+https://lnx.flop.jp/form/postmail.html

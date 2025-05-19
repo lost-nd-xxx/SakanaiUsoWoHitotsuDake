@@ -1,6 +1,6 @@
 charset,UTF-8
 file,install.txtfd028a237882916c6bf8c1c4d9ef07b8size=108date=2025-05-19T23:26:11
-file,readme.txtbfc284d2616161fb437af2e668e25953size=1019date=2025-05-19T23:27:51
+file,readme.txt823e4bb58cdac7ad92e7c2f0d6297336size=1143date=2025-05-20T01:03:50
 file,thumbnail.pnga3c046d25011889d7bf277f1f2bc5c45size=12597date=2025-04-19T00:11:11
 file,ghost/master/descript.txt267bc022b6120d0cb9d9b9212fe6f84esize=356date=2025-05-20T00:43:28
 file,ghost/master/dic_boot_and_end.txt118ca082d51754435a03c2d15b22d1ffsize=9748date=2025-05-20T00:38:36
