@@ -4,13 +4,14 @@ file,readme.txt823e4bb58cdac7ad92e7c2f0d6297336size=1143date=2025-05-20T01:03
 file,thumbnail.pnga3c046d25011889d7bf277f1f2bc5c45size=12597date=2025-04-19T00:11:11
 file,ghost/master/descript.txt267bc022b6120d0cb9d9b9212fe6f84esize=356date=2025-05-20T00:43:28
 file,ghost/master/dic_boot_and_end.txt118ca082d51754435a03c2d15b22d1ffsize=9748date=2025-05-20T00:38:36
-file,ghost/master/dic_input.txt23391fdf75c1ddb3a08c6f5a62902d55size=410date=2025-05-19T23:24:06
+file,ghost/master/dic_input.txt214703c586b4928db2074138aa0537c5size=647date=2025-05-26T10:22:28
 file,ghost/master/dic_menu.txt2330ee05ecbe3520d4cf9dba5c87a0b7size=3428date=2025-04-25T22:39:10
 file,ghost/master/dic_mouse.txt4cc1c7fb7426086920760471c436b0d9size=2683date=2025-04-25T17:40:28
-file,ghost/master/dic_randomtalk.txtf69c26368ca2eec405e905aac67b3796size=2937date=2025-05-19T23:23:17
+file,ghost/master/dic_randomtalk.txt42e482aafa62c06857e6abebcc2ea4a0size=6219date=2025-05-26T10:22:32
 file,ghost/master/dic_scene.txt4a0288244deabef4c2f3b3f6940f21b4size=5214date=2025-04-25T23:25:01
 file,ghost/master/replace_after.txtebb3f5bc04672abb46a920315f0cef0asize=517date=2025-05-19T23:23:13
 file,ghost/master/satori.dll103437d4bef21c3ceced582a67ca5c82size=716800date=2025-03-02T00:00:00
+file,ghost/master/satori_bootconf.txte8eaa119ef34216622d9335997e5ec6csize=111date=2025-05-26T07:28:55
 file,ghost/master/satori_conf.txt9e0bb5af60336e07210d77c3f72456fbsize=1023date=2025-05-20T00:40:16
 file,ghost/master/uso.icod47e02530dc8cc489f8b174885bdc414size=318date=2025-05-19T23:20:09
 file,shell/master/atari.png0850e56ae20c3275ee4025992e9929f3size=11268date=2025-04-21T02:10:12
@@ -60,7 +61,7 @@ file,shell/master/option1.pngb347658fea8f7f9829709f66c2d202e3size=89087date=2
 file,shell/master/option2.pngc24f619b4fa246c72963439ce3a97b82size=3751date=2025-04-20T21:39:33
 file,shell/master/option3.pnga819f012df3b2b09d9c14526e211289fsize=87890date=2025-04-20T21:39:33
 file,shell/master/readme.txt60f271c788ddf787a530e35dd2cd78a2size=5446date=2025-04-21T21:16:24
-file,shell/master/surface0.apngdc72bb17abd01fb65f76dcbe0cfa5c2bsize=569202date=2025-04-20T23:58:14
+file,shell/master/surface0.apnga540b908a1b7c75148c94ee020896c89size=481359date=2025-05-24T00:05:06
 file,shell/master/surface10.pngaa94a1f00834dc9b03ed88423ebb0ef0size=71date=2025-04-20T21:39:33
 file,shell/master/surfaces0.txta8d1bda9597e297d354af98c62bbb6e4size=4480date=2025-05-19T23:28:18
 file,shell/master/surfaces1.txt101216c2844b25862356ac1c1ff1c45asize=9233date=2025-05-19T23:28:22
