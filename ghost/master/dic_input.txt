@@ -16,3 +16,17 @@
 ＞メニュー
 
 
+
+＊OnBalloonBreak
+（サーフェス戻し）
+
+＊OnBalloonClose
+（サーフェス戻し）
+
+＊OnBalloonTimeout
+（サーフェス戻し）
+
+＠サーフェス戻し
+\1\s[10]\0\s[（デフォルトサーフェス0）]
+
+
