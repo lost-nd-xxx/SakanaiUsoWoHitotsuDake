@@ -1,0 +1,4 @@
+is_utf8_dic,true
+is_utf8_replace,true
+is_utf8_satolist_delete,true
+is_utf8_satolist_developer_options,true
