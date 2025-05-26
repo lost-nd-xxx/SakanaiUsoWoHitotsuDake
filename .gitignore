@@ -1,0 +1,10 @@
+ghost/master/profile/
+ghost/master/var/
+ghost/master/satori_savebackup.txt
+ghost/master/satori_savedata.txt
+ghost/master/ssp_shiori_log.txt
+
+shell/master/profile/
+shell/ymmgs/
+
+updates.txt
